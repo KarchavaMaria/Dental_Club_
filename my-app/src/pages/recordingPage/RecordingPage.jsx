@@ -79,8 +79,6 @@ const RecordingPage = () => {
                 </div>
             </div>
         </section>
-
     )
-
 }
 export default RecordingPage;
