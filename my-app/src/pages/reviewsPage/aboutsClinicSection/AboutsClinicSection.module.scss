@@ -1,0 +1,38 @@
+.aboutsClinicSection {
+  background: #D7D8D8;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 100px;
+
+  @media (max-width: 800px) {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .title {
+    h2 {
+      font-size: 40px;
+      font-weight: 400;
+    }
+  }
+
+  .description {
+    p {
+      font-size: 20px;
+      font-weight: 400;
+    }
+
+    button {
+      background: transparent;
+      border: 1px solid #171717;
+      border-radius: 40px;
+      font-size: 18px;
+      color: #171717;
+      width: 300px;
+      height: 55px;
+      cursor: pointer;
+    }
+  }
+}

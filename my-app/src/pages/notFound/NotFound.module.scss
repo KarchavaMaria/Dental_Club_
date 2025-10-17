@@ -1,0 +1,34 @@
+.notFound {
+  background: #202428;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 50px;
+
+  img {
+    width: 130px;
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: lightgrey;
+    text-align: center;
+
+    h1 {
+      font-size: 170px;
+      margin: 0;
+    }
+
+    h2 {
+      font-size: 40px;
+    }
+
+    p {
+      font-size: 20px;
+    }
+  }
+}

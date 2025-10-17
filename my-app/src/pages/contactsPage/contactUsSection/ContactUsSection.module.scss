@@ -1,0 +1,66 @@
+.contactUsSection {
+  background-color: #1A1F23;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 100px;
+
+  @media (max-width: 900px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .containerLeft {
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+    @media (max-width: 900px) {
+      align-items: center;
+    }
+    @media (max-width: 610px ) {
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 40px;
+    }
+
+    .tel {
+      display: flex;
+      justify-content: space-between;
+      @media (max-width: 900px) {
+        flex-direction: column;
+      }
+    }
+
+    p {
+      padding: 5px;
+      font-size: 24px;
+    }
+
+    .navSocial {
+      a {
+        padding: 10px;
+      }
+    }
+  }
+
+  .containerRight {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+    button {
+      margin: 20px;
+      background: transparent;
+      border: 1px solid #FFFFFF;
+      border-radius: 40px;
+      font-size: 18px;
+      color: white;
+      width: 300px;
+      height: 55px;
+      cursor: pointer;
+    }
+  }
+}

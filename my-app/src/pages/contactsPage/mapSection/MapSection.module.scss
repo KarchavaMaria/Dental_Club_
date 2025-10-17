@@ -1,0 +1,34 @@
+.mapSection {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 50px;
+  padding: 100px;
+  background: #2F353B;
+
+  @media (max-width: 1050px) {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 0;
+  }
+
+  .iframe {
+    grid-column: 3/4;
+    grid-row: 1/3;
+    iframe{
+      @media (max-width: 1050px) {
+        width: 100%;
+      }
+    }
+
+  }
+
+  .image {
+    grid-column: 1/3;
+    grid-row: 2/4;
+
+    img {
+      width: 100%;
+    }
+  }
+}

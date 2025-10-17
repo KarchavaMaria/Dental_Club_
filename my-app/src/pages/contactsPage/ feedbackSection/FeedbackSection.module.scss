@@ -1,0 +1,19 @@
+.feedbackSection {
+  background: #D7D8D8;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 100px;
+
+  @media (max-width: 900px) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .containerLeft {
+    h2 {
+      font-size: 40px;
+      font-weight: 400;
+      text-align: center;
+    }
+  }
+}

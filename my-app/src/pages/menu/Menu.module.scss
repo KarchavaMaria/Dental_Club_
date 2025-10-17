@@ -1,0 +1,117 @@
+.menu {
+  display: grid;
+  grid-template-columns:  minmax(400px, 1fr) 2fr;
+  background-color: #2F353B;
+
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+
+  }
+
+  .menuPanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: linear-gradient(to right, #2F353BF5, #A9A9A9);
+    z-index: 2;
+
+    .close {
+      padding: 40px;
+
+      button {
+        background: transparent;
+        color: #fff;
+        border: none;
+        font-size: 20px;
+        cursor: pointer;
+      }
+    }
+
+    .btnMenu {
+      display: flex;
+      flex-direction: column;
+      align-items: end;
+
+      @media (max-width: 800px) {
+        align-items: center;
+      }
+
+      .btnPrev {
+        display: flex;
+
+        img {
+          padding: 0 5px;
+        }
+      }
+
+      .btnMenuActive {
+        &:focus {
+          color: #F5D09C;
+
+        }
+      }
+
+      button {
+        background: transparent;
+        border: none;
+        color: white;
+        padding: 20px;
+        font-size: 20px;
+        font-weight: 500;
+        cursor: pointer;
+      }
+
+      a {
+        cursor: pointer;
+        color: white;
+        text-decoration: none;
+        padding: 20px;
+        font-size: 20px;
+        font-weight: 500;
+      }
+    }
+  }
+
+  .serviceContent {
+    width: 100%;
+
+    @media (max-width: 800px) {
+      grid-row: 2;
+    }
+
+    .title {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      bottom: 15%;
+
+      @media (max-width: 800px) {
+        position: relative;
+        top: 60%;
+      }
+
+      h2 {
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 400;
+      }
+
+      button {
+        background: white;
+        border: 1px solid #171717;
+        border-radius: 40px;
+        font-size: 18px;
+        color: #171717;
+        width: 300px;
+        height: 55px;
+        cursor: pointer;
+
+      }
+    }
+  }
+}

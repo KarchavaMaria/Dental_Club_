@@ -1,0 +1,44 @@
+.teamSection {
+  background-color: #2F353B;
+
+  .employees {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 100px;
+
+    @media (max-width: 800px) {
+      grid-template-columns: repeat(2, 1fr);
+      padding: 20px 0 20px 20px;
+    }
+    @media (max-width: 500px) {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .employee {
+      display: flex;
+      flex-direction: column;
+
+      img {
+        width: 90%;
+        cursor: pointer;
+      }
+
+      .title {
+        border-left: 2px solid #7F7E7E;
+        color: white;
+        padding: 10px;
+        margin: 10px 0;
+
+        .name {
+          font-size: 24px;
+          cursor: pointer;
+        }
+
+        .speciality {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
