@@ -8,7 +8,8 @@ Built with **HTML, CSS, and vanilla JavaScript**. Fully responsive and optimized
 ## 🔗 Live Demo
 
 Check out the live site here:  
-(https://kovalyovamaria.github.io/Dental_Club_/)
+
+https://kovalyovamaria.github.io/Dental_Club_/
 
 ---
 
