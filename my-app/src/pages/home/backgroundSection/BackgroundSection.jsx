@@ -1,4 +1,4 @@
-import homeBackgroundImage from '../../../assets/images/img_home_background.jpg';
+import homeBackgroundImage from '../../../assets/images/img_home_background.webp';
 import styles from './BackgroundSection.module.scss';
 import Button from "../../../components/button/Button";
 
