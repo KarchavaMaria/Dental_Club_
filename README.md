@@ -40,6 +40,11 @@ https://kovalyovamaria.github.io/Dental_Club_/
 
 <p align="center">
   
+<img width="1423" height="777" alt="Снимок экрана 2025-10-18 в 18 28 45" src="https://github.com/user-attachments/assets/550e438d-130e-421c-9699-826d111aed95" />
+
+<img width="882" height="648" alt="Снимок экрана 2025-10-18 в 18 29 56" src="https://github.com/user-attachments/assets/fa2df1ce-1f07-42d8-8760-79f1487c8069" />
+
+<img width="480" height="653" alt="Снимок экрана 2025-10-18 в 18 30 31" src="https://github.com/user-attachments/assets/67be8f7b-4d08-490d-8393-79063dd50f33" />
 
 </p>
 
