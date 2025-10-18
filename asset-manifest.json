@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dental_Club_/static/css/main.70eb3eb4.css",
-    "main.js": "/Dental_Club_/static/js/main.7fbbd66c.js",
+    "main.js": "/Dental_Club_/static/js/main.00617c72.js",
     "static/media/img_service_caries_prevention.jpg": "/Dental_Club_/static/media/img_service_caries_prevention.217ce712a41c9c59a4cf.jpg",
     "static/media/img_diagnostic_three.jpg": "/Dental_Club_/static/media/img_diagnostic_three.b0ed5ad65c029d9a0299.jpg",
     "static/media/img_therapy_two.jpg": "/Dental_Club_/static/media/img_therapy_two.282ab5a00bfc3050453d.jpg",
@@ -50,10 +50,10 @@
     "static/media/icons_menu_bar.svg": "/Dental_Club_/static/media/icons_menu_bar.3b087a06839934aeb3a3e2fb5357d7cf.svg",
     "index.html": "/Dental_Club_/index.html",
     "main.70eb3eb4.css.map": "/Dental_Club_/static/css/main.70eb3eb4.css.map",
-    "main.7fbbd66c.js.map": "/Dental_Club_/static/js/main.7fbbd66c.js.map"
+    "main.00617c72.js.map": "/Dental_Club_/static/js/main.00617c72.js.map"
   },
   "entrypoints": [
     "static/css/main.70eb3eb4.css",
-    "static/js/main.7fbbd66c.js"
+    "static/js/main.00617c72.js"
   ]
 }
