@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dental_Club_/static/css/main.70eb3eb4.css",
-    "main.js": "/Dental_Club_/static/js/main.b523c6a5.js",
+    "main.js": "/Dental_Club_/static/js/main.eb0f8827.js",
     "static/media/img_service_caries_prevention.jpg": "/Dental_Club_/static/media/img_service_caries_prevention.217ce712a41c9c59a4cf.jpg",
     "static/media/img_diagnostic_three.jpg": "/Dental_Club_/static/media/img_diagnostic_three.b0ed5ad65c029d9a0299.jpg",
     "static/media/img_therapy_two.jpg": "/Dental_Club_/static/media/img_therapy_two.282ab5a00bfc3050453d.jpg",
@@ -23,7 +23,6 @@
     "static/media/img_diagnostic_one.jpg": "/Dental_Club_/static/media/img_diagnostic_one.484bd53cccd5c5c4a661.jpg",
     "static/media/img_four_prosthetic.jpg": "/Dental_Club_/static/media/img_four_prosthetic.cd03f1c2c05e8e0ed960.jpg",
     "static/media/img_service_veneers.jpg": "/Dental_Club_/static/media/img_service_veneers.5020865b6bde5788d83c.jpg",
-    "static/media/img_home_background.jpg": "/Dental_Club_/static/media/img_home_background.31f82d93965b539afde3.jpg",
     "static/media/img_service_digital_prosthetics.jpg": "/Dental_Club_/static/media/img_service_digital_prosthetics.31f82d93965b539afde3.jpg",
     "static/media/img_diagnostic_two.jpg": "/Dental_Club_/static/media/img_diagnostic_two.9811d56809d08f86da00.jpg",
     "static/media/img_service_diagnosis.jpg": "/Dental_Club_/static/media/img_service_diagnosis.9811d56809d08f86da00.jpg",
@@ -41,6 +40,7 @@
     "static/media/img_team_vika.png": "/Dental_Club_/static/media/img_team_vika.70592d17b44124543cb8.png",
     "static/media/img_team_andrey.png": "/Dental_Club_/static/media/img_team_andrey.32498493689a05fc442a.png",
     "static/media/img_team_svetlana.png": "/Dental_Club_/static/media/img_team_svetlana.d1f2974718928b722c82.png",
+    "static/media/img_home_background.webp": "/Dental_Club_/static/media/img_home_background.c1b48413218e0cee5043.webp",
     "static/media/img_team_mari.png": "/Dental_Club_/static/media/img_team_mari.644bd29db24a13ec3c59.png",
     "static/media/img_review_imgOne.jpg": "/Dental_Club_/static/media/img_review_imgOne.cdbb0807ca4a7812326a.jpg",
     "static/media/img_review_imgTwo.jpg": "/Dental_Club_/static/media/img_review_imgTwo.4c77f6c4c02b4253d45f.jpg",
@@ -50,10 +50,10 @@
     "static/media/icons_menu_bar.svg": "/Dental_Club_/static/media/icons_menu_bar.3b087a06839934aeb3a3e2fb5357d7cf.svg",
     "index.html": "/Dental_Club_/index.html",
     "main.70eb3eb4.css.map": "/Dental_Club_/static/css/main.70eb3eb4.css.map",
-    "main.b523c6a5.js.map": "/Dental_Club_/static/js/main.b523c6a5.js.map"
+    "main.eb0f8827.js.map": "/Dental_Club_/static/js/main.eb0f8827.js.map"
   },
   "entrypoints": [
     "static/css/main.70eb3eb4.css",
-    "static/js/main.b523c6a5.js"
+    "static/js/main.eb0f8827.js"
   ]
 }
