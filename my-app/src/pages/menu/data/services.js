@@ -24,8 +24,6 @@ import imgThreeProsthetics from "../../../assets/images/img_three_prosthetics.we
 import imgFourProsthetics from "../../../assets/images/img_four_prosthetic.webp";
 import imgFiveProsthetics from "../../../assets/images/img_five_prosthetic.webp";
 
-
-h
 const services = [
     {
         id: 1,
