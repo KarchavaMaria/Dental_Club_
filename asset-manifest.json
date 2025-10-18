@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dental_Club_/static/css/main.70eb3eb4.css",
+    "main.css": "/Dental_Club_/static/css/main.1f628836.css",
     "main.js": "/Dental_Club_/static/js/main.86e5d7f0.js",
     "static/media/img_therapy_three.webp": "/Dental_Club_/static/media/img_therapy_three.fc2099fcc67a6c00becf.webp",
     "static/media/img_two_prosthetics.webp": "/Dental_Club_/static/media/img_two_prosthetics.dd30504e889b6d583657.webp",
@@ -50,11 +50,11 @@
     "static/media/icons_menu_bar.svg": "/Dental_Club_/static/media/icons_menu_bar.3b087a06839934aeb3a3e2fb5357d7cf.svg",
     "index.html": "/Dental_Club_/index.html",
     "static/media/img_review_imgThree.webp": "/Dental_Club_/static/media/img_review_imgThree.f676da8f7005d8a2bc20.webp",
-    "main.70eb3eb4.css.map": "/Dental_Club_/static/css/main.70eb3eb4.css.map",
+    "main.1f628836.css.map": "/Dental_Club_/static/css/main.1f628836.css.map",
     "main.86e5d7f0.js.map": "/Dental_Club_/static/js/main.86e5d7f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.70eb3eb4.css",
+    "static/css/main.1f628836.css",
     "static/js/main.86e5d7f0.js"
   ]
 }
