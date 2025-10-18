@@ -1,6 +1,6 @@
-import imgOne from "../../../assets/images/img_review_imgOne.jpg";
-import imgTwo from "../../../assets/images/img_review_imgTwo.jpg";
-import imgThree from "../../../assets/images/img_review_imgThree.png";
+import imgOne from "../../../assets/images/img_review_imgOne.webp";
+import imgTwo from "../../../assets/images/img_review_imgTwo.webp";
+import imgThree from "../../../assets/images/img_review_imgThree.webp";
 
 const reviews = [{
     id: 1,

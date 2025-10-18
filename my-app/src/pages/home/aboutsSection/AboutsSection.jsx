@@ -1,6 +1,6 @@
 import styles from './AboutsSection.module.scss';
-import imgOne from '../../../assets/images/img_abouts_clinic_one.png';
-import imgTwo from '../../../assets/images/img_abouts_clinic_two.png';
+import imgOne from '../../../assets/images/img_abouts_clinic_one.webp';
+import imgTwo from '../../../assets/images/img_abouts_clinic_two.webp';
 import Button from "../../../components/button/Button";
 
 const AboutsSection = () => {

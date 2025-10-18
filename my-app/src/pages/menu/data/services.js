@@ -1,32 +1,31 @@
-import imgDiagnosis from '../../../assets/images/img_service_diagnosis.jpg';
-import imgTherapy from '../../../assets/images/img_service_therapy.jpg';
-import imgDigitalProsthetics from '../../../assets/images/img_service_digital_prosthetics.jpg';
-import imgDigitalImplantation from '../../../assets/images/img_service_digital_implantation.jpg';
-import imgCompleteImplantation from '../../../assets/images/img_service_complete_implantation.jpg';
-import imgCariesPrevention from '../../../assets/images/img_service_caries_prevention.jpg';
-import imgOrthopedics from '../../../assets/images/img_service_orthopedics.jpg';
-import imgVeneers from '../../../assets/images/img_service_veneers.jpg';
-import imgOneDiagnostic from "../../../assets/images/img_diagnostic_one.jpg";
-import imgTwoDiagnostic from "../../../assets/images/img_diagnostic_two.jpg";
-import imgThreeDiagnostic from "../../../assets/images/img_diagnostic_three.jpg";
-import imgFourDiagnostic from "../../../assets/images/img_diagnostic_four.jpg";
-import imgFiveDiagnostic from "../../../assets/images/img_diagnostic_five.jpg";
-import imgSixDiagnostic from "../../../assets/images/img_diagnostic_six.jpg";
-import imgOneTherapy from "../../../assets/images/img_therapy_one.jpg";
-import imgTwoTherapy from "../../../assets/images/img_therapy_two.jpg";
-import imgThreeTherapy from "../../../assets/images/img_therapy_three.jpg";
-import imgFourTherapy from "../../../assets/images/img_therapy_four.jpg";
-import imgFiveTherapy from "../../../assets/images/img_therapy_five.jpg";
-import imgSixTherapy from "../../../assets/images/img_therapy_six.jpg";
-import imgOneProsthetics from "../../../assets/images/img_one_prosthetics.jpg";
-import imgTwoProsthetics from "../../../assets/images/img_two_prosthetics.jpg";
-import imgThreeProsthetics from "../../../assets/images/img_three_prosthetics.jpg";
-import imgFourProsthetics from "../../../assets/images/img_four_prosthetic.jpg";
-import imgFiveProsthetics from "../../../assets/images/img_five_prosthetic.jpg";
+import imgDiagnosis from '../../../assets/images/img_service_diagnosis.webp';
+import imgTherapy from '../../../assets/images/img_service_therapy.webp';
+import imgDigitalProsthetics from '../../../assets/images/img_service_digital_prosthetics.webp';
+import imgDigitalImplantation from '../../../assets/images/img_service_digital_implantation.webp';
+import imgCompleteImplantation from '../../../assets/images/img_service_complete_implantation.webp';
+import imgCariesPrevention from '../../../assets/images/img_service_caries_prevention.webp';
+import imgOrthopedics from '../../../assets/images/img_service_orthopedics.webp';
+import imgVeneers from '../../../assets/images/img_service_veneers.webp';
+import imgOneDiagnostic from "../../../assets/images/img_diagnostic_one.webp";
+import imgTwoDiagnostic from "../../../assets/images/img_diagnostic_two.webp";
+import imgThreeDiagnostic from "../../../assets/images/img_diagnostic_three.webp";
+import imgFourDiagnostic from "../../../assets/images/img_diagnostic_four.webp";
+import imgFiveDiagnostic from "../../../assets/images/img_diagnostic_five.webp";
+import imgSixDiagnostic from "../../../assets/images/img_diagnostic_six.webp";
+import imgOneTherapy from "../../../assets/images/img_therapy_one.webp";
+import imgTwoTherapy from "../../../assets/images/img_therapy_two.webp";
+import imgThreeTherapy from "../../../assets/images/img_therapy_three.webp";
+import imgFourTherapy from "../../../assets/images/img_therapy_four.webp";
+import imgFiveTherapy from "../../../assets/images/img_therapy_five.webp";
+import imgSixTherapy from "../../../assets/images/img_therapy_six.webp";
+import imgOneProsthetics from "../../../assets/images/img_one_prosthetics.webp";
+import imgTwoProsthetics from "../../../assets/images/img_two_prosthetics.webp";
+import imgThreeProsthetics from "../../../assets/images/img_three_prosthetics.webp";
+import imgFourProsthetics from "../../../assets/images/img_four_prosthetic.webp";
+import imgFiveProsthetics from "../../../assets/images/img_five_prosthetic.webp";
 
 
-
-
+h
 const services = [
     {
         id: 1,

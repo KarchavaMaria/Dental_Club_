@@ -1,4 +1,4 @@
-import imgOne from "../../../assets/images/img_contacts_one.jpg";
+import imgOne from "../../../assets/images/img_contacts_one.webp";
 import styles from "./MapSection.module.scss";
 
 const MapSection = () => {

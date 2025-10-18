@@ -1,4 +1,4 @@
-import contactsBackgroundImage from '../../../assets/images/img_contacts_background.jpg';
+import contactsBackgroundImage from '../../../assets/images/img_contacts_background.webp';
 import styles from './BackgroundSection.module.scss';
 import Button from "../../../components/button/Button";
 

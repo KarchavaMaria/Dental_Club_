@@ -1,6 +1,6 @@
 import {NavLink, useNavigate} from "react-router-dom";
 import styles from "./Menu.module.scss";
-import backgroundImage from "../../assets/images/img_menu_background.jpg"
+import backgroundImage from "../../assets/images/img_menu_background.webp"
 import React, {useState} from "react";
 import services from "./data/services";
 import prev from "../../assets/icons/icons_prev.png";

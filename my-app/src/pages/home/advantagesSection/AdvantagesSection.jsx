@@ -1,5 +1,5 @@
 import styles from './AdvantagesSection.module.scss';
-import imgThree from '../../../assets/images/img_abouts_clinic_three.png';
+import imgThree from '../../../assets/images/img_abouts_clinic_three.webp';
 import imgFour from '../../../assets/images/img_abouts_clinic_four.webp';
 import Button from "../../../components/button/Button";
 

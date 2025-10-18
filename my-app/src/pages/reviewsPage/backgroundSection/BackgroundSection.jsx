@@ -1,4 +1,4 @@
-import reviewsBackgroundImage from '../../../assets/images/img_reviews_background.jpg';
+import reviewsBackgroundImage from '../../../assets/images/img_reviews_background.webp';
 import styles from './BackgroundSection.module.scss';
 import {useState} from "react";
 import Modal from "../aboutsClinicSection/modal/Modal";

@@ -1,9 +1,9 @@
-import imgOlga from '../../../assets/images/img_team_olga.png';
-import imgDima from '../../../assets/images/img_team_dima.png';
-import imgVika from '../../../assets/images/img_team_vika.png';
-import imgSvetlana from '../../../assets/images/img_team_svetlana.png';
-import imgMari from '../../../assets/images/img_team_mari.png';
-import imgAndrey from '../../../assets/images/img_team_andrey.png';
+import imgOlga from '../../../assets/images/img_team_olga.webp';
+import imgDima from '../../../assets/images/img_team_dima.webp';
+import imgVika from '../../../assets/images/img_team_vika.webp';
+import imgSvetlana from '../../../assets/images/img_team_svetlana.webp';
+import imgMari from '../../../assets/images/img_team_mari.webp';
+import imgAndrey from '../../../assets/images/img_team_andrey.webp';
 
 const teams = [
     {
