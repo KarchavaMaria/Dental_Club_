@@ -1,7 +1,7 @@
 # Dental Club 🦷 
 
 A stylish **one-page jewelry website** showcasing collections with an interactive gallery.  
-Built with **HTML, CSS, and vanilla JavaScript**. Fully responsive and optimized for desktop and mobile devices.
+Built with **HTML, CSS, and React**. Fully responsive and optimized for desktop and mobile devices.
 
 ---
 
