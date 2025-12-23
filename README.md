@@ -53,4 +53,4 @@ https://kovalyovamaria.github.io/Dental_Club_/
 ## 💻 How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/KovalyovaMaria/Dental_Club_.git
+git clone https://github.com/KarchavaMaria/Dental_Club_.git
